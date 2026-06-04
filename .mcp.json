@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bitwize-music-mcp": {
+      "type": "stdio",
+      "command": "/root/.bitwize-music/venv/bin/python3",
+      "args": ["/home/user/claude-ai-music-skills/servers/bitwize-music-server/run.py"]
+    }
+  }
+}
